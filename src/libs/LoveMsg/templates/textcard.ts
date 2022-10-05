@@ -87,7 +87,7 @@ ${CONFIG.girl_name}可要注意保暖哦~\n`
   description += `
   [ 点击查看每日新闻 ] ❤️ 🧡 💛 💚 💖`
 
-  const title = `今天是我们相恋的第 ${dateLength} 天`
+  const title = `已经稳定运行 ${dateLength} 天啦`
 
   return {
     msgtype: 'textcard',
